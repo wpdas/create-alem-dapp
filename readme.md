@@ -1,6 +1,6 @@
 # Create Alem dApp
 
-<img alt="Logo" align="right" src="./docs/create-alem-dapp-logo.png" width="14%" />
+<img alt="Logo" align="right" src="https://cdn.jsdelivr.net/gh/wpdas/create-alem-dapp@0.1.0/docs/create-alem-dapp-logo.png" width="14%" />
 
 Create dApps with no build configuration and deploy them to NEAR Bos (NEAR blockchain).
 
@@ -26,7 +26,9 @@ cd my-app
 npm start
 ```
 
-<!-- Colocar imagem GIF aqui -->
+<p align='center'>
+<img src='./docs/create-alem-dapp-script-demo.gif' width='420' alt='npm start'>
+</p>
 
 ## Creating an App
 
@@ -34,7 +36,7 @@ npm start
 
 To create a new app, you may choose one of the following methods:
 
-### npx
+### Npx
 
 ```sh
 npx create-alem-dapp my-app
@@ -43,7 +45,7 @@ npx create-alem-dapp my-app
 ### Yarn
 
 ```sh
-yarn create-alem-dapp my-app
+yarn create alem-dapp my-app
 ```
 
 It will create a directory called `my-app` inside the current folder.<br>
@@ -65,18 +67,6 @@ If it doesn't open automatically, open [http://localhost:8080](http://localhost:
 
 The page will automatically reload if you make changes to the code.<br>
 You will see the build errors and lint warnings in the console.
-
-## How to Update to New Versions?
-
-Run the following command:
-
-```sh
-# npm
-npm install create-alem-dapp -g
-
-# yarn
-yarn global add create-alem-dapp
-```
 
 ## Contributing
 
