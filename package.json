@@ -1,0 +1,16 @@
+{
+  "name": "create-alem-dapp",
+  "version": "0.1.0",
+  "description": "Create initial Alem dApp bundle. Alem is a library to help creating web3 applications for NEAR BOS with a focus on performance while using concepts that are based on ReactJS.",
+  "main": "main.js",
+  "scripts": {},
+  "author": "Wenderson Pires",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "rimraf": "^5.0.5"
+  },
+  "bin": {
+    "create-alem-dapp": "./bin/generate-bundle"
+  }
+}
