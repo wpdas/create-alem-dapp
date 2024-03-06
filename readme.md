@@ -8,7 +8,7 @@ Get to know more about [**Alem Library**](https://github.com/wpdas/alem).
 
 Create Alem dApp works on macOS, Windows, and Linux.<br>
 If something doesn’t work, please file an issue.<br>
-If you have questions or need help, please ask in the [Alem Discussions](t.me/alemlib/8).
+If you have questions or need help, please ask in the [Alem Discussions](https://t.me/alemlib/8).
 
 ## Quick Overview
 
