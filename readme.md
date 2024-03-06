@@ -1,4 +1,4 @@
-# Create Alem dApp
+# Create Alem DApp
 
 <img alt="Logo" align="right" src="https://cdn.jsdelivr.net/gh/wpdas/create-alem-dapp@0.1.0/docs/create-alem-dapp-logo.png" width="14%" />
 
