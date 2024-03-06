@@ -27,7 +27,7 @@ npm start
 ```
 
 <p align='center'>
-<img src='./docs/create-alem-dapp-script-demo.gif' width='420' alt='npm start'>
+<img src='./docs/create-alem-dapp-script-demo.gif' width='420' alt='npx create-alem-dapp my-app'>
 </p>
 
 ## Creating an App
