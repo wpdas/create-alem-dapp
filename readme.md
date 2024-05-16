@@ -26,6 +26,14 @@ cd my-app
 npm start
 ```
 
+Or even using Tailwind:
+
+```sh
+npx create-alem-dapp my-app --template typescript-tailwind
+cd my-app
+npm start
+```
+
 <p align='center'>
 <img src='./docs/create-alem-dapp-script-demo.gif' width='420' alt='npx create-alem-dapp my-app'>
 </p>
