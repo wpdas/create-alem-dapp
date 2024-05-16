@@ -1,6 +1,6 @@
 {
   "name": "create-alem-dapp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Create initial Alem dApp bundle. Alem is a library to help creating web3 applications for NEAR BOS with a focus on performance while using concepts that are based on ReactJS.",
   "main": "main.js",
   "scripts": {},
